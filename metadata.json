@@ -1,0 +1,5 @@
+
+{
+  "name": "Funtelligent Chat",
+  "description": "A WhatsApp-like chat application where anyone can create a unique ID to chat with friends or AI-powered bots. Conversations are stored locally in your browser, powered by the Gemini API for bot interactions."
+}
